@@ -1,0 +1,16 @@
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/bin/Debug/netstandard2.0/PokedexApp.deps.json
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/bin/Debug/netstandard2.0/PokedexApp.dll
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/bin/Debug/netstandard2.0/ref/PokedexApp.dll
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/bin/Debug/netstandard2.0/PokedexApp.pdb
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/obj/Debug/netstandard2.0/PokedexApp.csproj.AssemblyReference.cache
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/obj/Debug/netstandard2.0/PokedexApp.AssemblyInfoInputs.cache
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/obj/Debug/netstandard2.0/PokedexApp.AssemblyInfo.cs
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/obj/Debug/netstandard2.0/PokedexApp.csproj.CoreCompileInputs.cache
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/obj/Debug/netstandard2.0/PokedexApp.dll
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/obj/Debug/netstandard2.0/ref/PokedexApp.dll
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/obj/Debug/netstandard2.0/PokedexApp.pdb
+/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/obj/Debug/netstandard2.0/Views/PokemonsPage.xaml.g.cs

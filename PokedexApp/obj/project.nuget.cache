@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "fQWudKrdi535yNl0VGPznTuym9tr9dHqSnJYyMqE+F0kW5Lx3j6GcyLYKG1W7d13YM62J4BRJ0LzEPFWg4PDpQ==",
+  "success": true,
+  "projectFilePath": "/Users/citlali.a.cardenas/Projects/PokedexApp/PokedexApp/PokedexApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/citlali.a.cardenas/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/citlali.a.cardenas/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/citlali.a.cardenas/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/citlali.a.cardenas/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/citlali.a.cardenas/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
